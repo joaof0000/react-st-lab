@@ -1,0 +1,58 @@
+/* App.css */
+
+/* Styling for the main container */
+.App {
+  background-color: #f5f5f5;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+/* Styling for the heading */
+.App h1 {
+  color: #333;
+  font-size: 32px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Styling for each student container */
+.Student {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling for the name heading */
+.Student h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+/* Styling for the bio paragraph */
+.Student p {
+  color: #555;
+  margin-bottom: 20px;
+}
+
+/* Styling for the scores heading */
+.Student h3 {
+  color: #444;
+  font-size: 18px;
+}
+
+/* Styling for the scores list */
+.Student ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Styling for each score item */
+.Student li {
+  margin-bottom: 5px;
+  color: #666;
+}
